@@ -1,4 +1,4 @@
-# 原生与RN交互相关要点记录
+** 原生与RN交互相关要点记录 **
 ### 1、ReactToRN——原生调用RN（原生发送消息到RN）；
 ###### ReactNative.js
 <pre><code>
